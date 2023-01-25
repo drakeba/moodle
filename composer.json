@@ -12,6 +12,6 @@
   "require": {
     "php": ">=7.4.0",
     "drakeba/moodle-core-installer": "^2.0.0",
-    "drakeba/moodle-core": "dev-master"
+    "drakeba/moodle-core": "4.1.1"
   }
 }
