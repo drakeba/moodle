@@ -1,0 +1,17 @@
+{
+  "name": "drakeba/moodle",
+  "description": "Moodle - the world's open source learning platform",
+  "keywords": [
+    "moodle",
+    "lms",
+    "learning"
+  ],
+  "type": "package",
+  "homepage": "https://moodle.org",
+  "license": "GPL-2.0+",
+  "require": {
+    "php": ">=7.4.0",
+    "drakeba/moodle-core-installer": "^2.0",
+    "drakeba/moodle-core": "dev-master"
+  }
+}
