@@ -8,7 +8,7 @@
   ],
   "type": "package",
   "homepage": "https://moodle.org",
-  "license": "GPL-2.0+",
+  "license": "GPL-2.0-or-later",
   "require": {
     "php": ">=7.4.0",
     "drakeba/moodle-core-installer": "^2.0.0",
